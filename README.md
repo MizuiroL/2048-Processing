@@ -1,2 +1,2 @@
 # 2048-Processing
-Simple clone I coded 2 years ago for school
+Simple clone I coded years ago for school
